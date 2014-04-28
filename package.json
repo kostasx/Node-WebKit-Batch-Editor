@@ -1,1 +1,13 @@
-{}
+{
+  "main": "./app/index.html",
+  "name": "nw-batch-editor",
+  "description": "Node-WebKit Batch Image Editing",
+  "version": "0.1.0",
+  "window": {
+    "title": "Batch Image Editor",
+    "toolbar": false,
+    "frame": true,
+    "width": 600,
+    "height": 700
+  }
+}
